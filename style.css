@@ -1,0 +1,38 @@
+body{
+    background-color:#D5E1EF;
+    text-align: center;
+}
+
+.main{
+    background-color:hsl(0, 0%, 100%);
+    display:block;
+    width: 247px;
+    margin: 0 auto;
+    height: 400px;
+    padding-right: 20px;
+    margin-top: 100px;
+    border-radius: 10px;
+}
+
+img{
+  width: 230px;
+  height: 215px;
+  margin: 10px;
+  margin-left: 19px;
+  border-radius: 10px;
+}
+
+.head{
+  padding-left: 15px;
+  color: #212D47;
+  font-family: 'Outfit', sans-serif;
+  font-weight: 700;
+}
+
+.text{
+  padding-left: 12px;
+  color: #9E9DA3;
+  font-family: 'Outfit', sans-serif;
+  font-weight: 400;
+  font-size: 14px;
+}
