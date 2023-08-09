@@ -1,3 +1,2 @@
 # Frontend_C1
-QR code component website
-This is my first challenge on frontend mentor.
+This is solution to QR Code challenge of Frontend Mentor(https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H).
